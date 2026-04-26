@@ -167,4 +167,3 @@ which sources them from publicly available checkpoints:
 ## Hardware
 
 Training was performed on **Google Colab Pro** with NVIDIA T4 GPU access.
-Total compute time across all 8 training runs: ~10–15 hours.
