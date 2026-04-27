@@ -34,7 +34,7 @@ For full setup details, dataset download instructions, and access to trained che
 ## Video Links
 
 - **Demo Video** (3–5 min, non-technical overview): (https://youtu.be/R5p_oWp4TsU)
-- **Technical Walkthrough** (5–10 min, code and methodology): [link will be added after recording]
+- **Technical Walkthrough** (5–10 min, code and methodology): https://youtu.be/4RjNLziJhLQ
 
 ---
 
